@@ -6,15 +6,15 @@ const projectsData = [
     img: "pro-imgs/1.jpg"
   },
   {
-    title: "فيديو يوتيوب",
-    desc: "مونتاج تعليمي احترافي لقناة يوتيوب.",
-    link: "https://example.com/video2",
+    title: "ريلز تسويقي",
+    desc: "مقاطع قصيرة ترويجية مخصصة للسوشال ميديا لشركة Pixel Vault.",
+    link: "https://www.instagram.com/reel/DMabbA1M2gU/?igsh=YnFvNWM2OWl6aHQ2",
     img: "pro-imgs/1.jpg"
   },
   {
     title: "ريلز إنستغرام",
-    desc: "مقاطع قصيرة ترويجية مخصصة للسوشال ميديا.",
-    link: "https://example.com/video3",
+    desc: "مقاطع قصيرة ترويجية مخصصة للسوشال ميديا لشركة Pixel Vault.",
+    link: "https://www.instagram.com/reel/DMc3NgcMhoq/?igsh=a256ZWUwcmFybzlj",
     img: "pro-imgs/1.jpg"
   }
 ];
