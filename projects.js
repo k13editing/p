@@ -1,8 +1,8 @@
 const projectsData = [
   {
-    title: "إعلان منتج",
-    desc: "فيديو ترويجي مميز لمنتج جديد بأسلوب سينمائي جذاب.",
-    link: "https://example.com/video1",
+    title: "اعلان ترويجي",
+    desc: "فيديو ترويجي مميز موقعي الجديد بأسلوب جميل و جذاب.",
+    link: "https://www.instagram.com/reel/DMgWwAnMgqU/?igsh=cG9reWpvNGtqOWc=",
     img: "pro-imgs/1.jpg"
   },
   {
@@ -15,6 +15,13 @@ const projectsData = [
     title: "ريلز إنستغرام",
     desc: "مقاطع قصيرة ترويجية مخصصة للسوشال ميديا لشركة Pixel Vault.",
     link: "https://www.instagram.com/reel/DMc3NgcMhoq/?igsh=a256ZWUwcmFybzlj",
+    img: "pro-imgs/1.jpg"
+  }
+  
+  {
+    title: "فيديو تعريفي",
+    desc: "مقاطع قصيرة ترويجية مخصصة للسوشال ميديا.",
+    link: "https://www.instagram.com/reel/DMWWD1RojG1/?igsh=YmhtNGc0cHkzNDdl",
     img: "pro-imgs/1.jpg"
   }
 ];
