@@ -16,7 +16,7 @@ const projectsData = [
     desc: "مقاطع قصيرة ترويجية مخصصة للسوشال ميديا لشركة Pixel Vault.",
     link: "https://www.instagram.com/reel/DMc3NgcMhoq/?igsh=a256ZWUwcmFybzlj",
     img: "pro-imgs/1.jpg"
-  }
+  },
   
   {
     title: "فيديو تعريفي",
